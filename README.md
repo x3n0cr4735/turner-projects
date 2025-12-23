@@ -13,7 +13,7 @@
 
 *Original vehicle and system designs spanning ground, air, space, and underwater domains*
 
-[![Portfolio](https://img.shields.io/badge/🚀_VIEW_PORTFOLIO-00ff88?style=for-the-badge)](https://x3n0cr4735.github.io/turner-projects/)
+[![Portfolio](https://img.shields.io/badge/🚀_VIEW_PORTFOLIO-111111?style=for-the-badge&labelColor=00ff88)](https://x3n0cr4735.github.io/turner-projects/)
 
 ---
 
