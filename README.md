@@ -20,7 +20,7 @@ A manned submersible for deep-sea mining operations featuring robotic extraction
 
 ## View the Portfolio
 
-**[→ Open Neon Genesis](https://x3n0cr4735.github.io/turner-projects/neon-genesis.html)**
+**[→ Open Neon Genesis](https://x3n0cr4735.github.io/turner-projects/)**
 
 ---
 
